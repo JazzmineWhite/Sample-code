@@ -1,5 +1,5 @@
 #BlackJack game programmed by Ellissa Barclay de Tolly
-
+#Jazzmine forked this baby
 #Class
 
 class Card:
