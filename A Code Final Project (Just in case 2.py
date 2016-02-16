@@ -6,7 +6,7 @@ class Card:
     def __init__(self, value, suite):
         self.value = value
         self.suite = suite
-        self.numValue = self.cardvalue()
+        self.numValue = self.cardvalue(jazzmine)
         
     def cardvalue(self):
         if self.value== 'Ace':
